@@ -1,0 +1,12 @@
+{
+  "ApplicationRootUrl": "https://applications.eu-1.celonis.cloud/",
+  "Users": {
+    "User": {
+      "Email": "",
+      "Password": ""
+    }
+  },
+  "Driver": {
+    "Browser": "Chrome"
+  }
+}
